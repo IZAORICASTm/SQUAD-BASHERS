@@ -1,0 +1,3 @@
+-NITA-
+HP: 15
+ATTACK: 8

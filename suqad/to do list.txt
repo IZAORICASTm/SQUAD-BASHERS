@@ -1,0 +1,12 @@
+tienda 
+seleccionar y definir skins y mega unidades (EN ELLO)
+cofres y posibilidades (HECHO)
+menu de los personajes que tienes (FALTA LO DE CAMBIAR SKINS)
+el jugar (3 enemigos debiles, 3 medios, 3 fuertes y el jefe) (intentandolo)
+el randomizer de personajes entre batallas (hecho)
+el menu de que querer hacer entre batallas (curar algun personaje con monedas, conseguir un personaje aleatorio con monedas o tirar al otro enemigo) (SEGURAMENTE NO LO HAGA)
+las batallas  (EN ELLO)
+que se guarden shii en usuarios
+programar estadisticas de personajes (EN ELLO)
+eloy y el modo secreto (veré que hago )
+ un if en el cual si $las es igual a 1 o 2 te ejecuta green.sh, si es 3 o 4, te ejecuta desert.sh, si es 5 o 6 te ejecuta royal.sh, si es 7 u 8, se ejecuta beach.sh y si es 9 o 10, se ejecuta ice. sh (hecho )

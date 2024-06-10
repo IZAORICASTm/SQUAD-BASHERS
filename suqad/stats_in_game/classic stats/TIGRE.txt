@@ -1,0 +1,3 @@
+=EL TIGRE=
+HP: 50
+ATTACK: 30
