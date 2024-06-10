@@ -1,3 +1,0 @@
--COLT-
-HP: 12
-ATTACK: 9

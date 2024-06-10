@@ -1,3 +1,0 @@
--HOG RIDER-
-HP: 11
-ATTACK: 11

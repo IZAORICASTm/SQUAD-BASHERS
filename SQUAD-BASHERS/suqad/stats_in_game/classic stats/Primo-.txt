@@ -1,3 +1,0 @@
--EL PRIMO-
-HP: 25
-DAMAGE: 12

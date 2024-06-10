@@ -1,3 +1,0 @@
--GREG-
-HP: 9
-ATTACK: 10
